@@ -28,7 +28,6 @@
 		File name format: BF2_ppd_Pos_(mission folder name).txt  
 		Example: "BF2_ppd_Pos_(Highway_Tampa).txt"
 		
-		To indicate save  Save1.wav
 
 
 
