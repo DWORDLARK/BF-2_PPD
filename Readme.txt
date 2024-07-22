@@ -54,7 +54,6 @@
 	OnTop=0    if set to 1, program window is forced as top window.
 		Useful for copy-paste location data into game script files.
 		OnTop=1 will not force BF2_ppd program window on top of fullscreen game window !
-	GameType=1	1 or 2	User must select Game type,  1=BattleField2,  2=ForgottenHope2
 
 	User can set up three shortcuts to start BF2 game (with optional parameters).
 
@@ -93,8 +92,8 @@
 	Date:
 	08.05.2024
 ----------------------------------------------------------------------------------------
-	19.07.2024
-	+Support for ForgottenHope2
+	22.07.2024
+	location correction of text fields
 ----------------------------------------------------------------------------------------
 
 
